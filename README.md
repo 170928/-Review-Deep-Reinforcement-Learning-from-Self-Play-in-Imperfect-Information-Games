@@ -9,3 +9,4 @@
 Leduc poker에 이 알고리즘이 적용되었을 때, Neural Fictitious Self-Play (NFSP)는 내쉬 균형에 도달하는 모습을 보였습니다.
 
 ### Introduction 
+ 
